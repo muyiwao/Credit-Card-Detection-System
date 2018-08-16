@@ -11,7 +11,7 @@ This project requires Python 3.x installer or the Anaconda distribution of Pytho
     NumPy
     Pandas
     Matplotlib
-    scikit-learn
+    scikit-learn etc
 
 #### Data 
 
