@@ -1,8 +1,8 @@
 ###  Credit Card Detection System
 
-#### Objectives
+#### Goal
 
-The classification goal is to predict if the clients will not be able to pay the next month loan installment. 
+To predict if the clients will not be able to pay the next month loan installment. 
 
 #### Install
 
